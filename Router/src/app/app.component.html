@@ -1,0 +1,14 @@
+<header>
+  <nav>
+    <ul class="nav nav-tabs">
+      <li class="nav-item" ><a routerLinkActive = "active" [routerLinkActiveOptions] = "{exact:true}" routerLink="/" class="nav-link">Home</a></li>
+      <li class="nav-item" ><a routerLinkActive = "active" routerLink="/about" class="nav-link">About</a></li>
+      <li class="nav-item" ><a routerLinkActive = "active" routerLink="/contact" class="nav-link">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<div class="bg">
+<router-outlet></router-outlet>
+</div>
+
+

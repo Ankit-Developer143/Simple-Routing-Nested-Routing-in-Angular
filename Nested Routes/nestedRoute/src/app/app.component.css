@@ -1,0 +1,16 @@
+header {
+  background-color: black;
+}
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+a:hover {
+  color: yellow;
+}
+.bg {
+  border: solid yellow;
+  background-color: whitesmoke;
+  text-align: center;
+  margin-top: 50px;
+}
