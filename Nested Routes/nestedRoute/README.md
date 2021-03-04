@@ -1,6 +1,7 @@
 # NestedRoute
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+# install Bootstrap
+`npm install bootstrap`
 
 ## Development server
 
