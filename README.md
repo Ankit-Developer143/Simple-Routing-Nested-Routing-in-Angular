@@ -1,4 +1,4 @@
-# Simple-Routing && Nested-Routing-in-Angular 
+# Simple-Routing && Nested-Routing-in-Angular .
 
 #Nested Routing
 ![image](https://user-images.githubusercontent.com/59916393/109943123-dc9ee080-7cfa-11eb-924c-f3a9c1f2f142.png)
